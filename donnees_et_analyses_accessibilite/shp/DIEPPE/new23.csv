@@ -1,0 +1,17 @@
+wkt_geom;CODE_IRIS;NOM_IRIS;norm_obst;norm_tc;norm_pmr;norm_pente;new_norm_tc;new_norm_pmr;new_norm_pente;new_norm_obst
+NULL;762170114;Paul Bert Puys;1;;; ; ; ; ;0
+NULL;762170104;Janval Château Michel Feldmann;0.8;0.501;0.892;0.588;0.5010;0.0436;0.7371;0.2
+NULL;762170110;Pollet Cité du Marin;0.8;0.249;7.3;0.626;0.2490;1.0000;0.5733;0.2
+NULL;762170108;Centre Ville Saint-Jacques;0.8;0.198;0.935;0.606;0.1980;0.0500;0.6595;0.2
+NULL;762170109;Front de Mer Bout du Quai;0.8;0.165;5.107;0.759;0.1650;0.6725;0.0000;0.2
+NULL;762170107;Saint-Pierre;0.8;0.185;2.394;0.62;0.1850;0.2678;0.5991;0.2
+NULL;762170115;Bel-Air;0.4;;; ; ; ; ;0.6
+NULL;762170116;Grands H.L.M. Commerces;0.4;;; ; ; ; ;0.6
+NULL;762170101;Caude Côté;0.4;0.436;0.836;0.618;0.4360;0.0352;0.6078;0.6
+NULL;762170103;Janval Bruyères Ferme des Hospices;0.4;1;0.667; ;1.0000;0.0100; ;0.6
+NULL;762170106;Zone d'Activités Talou;0.4;0.091;0.84;0.527;0.0910;0.0358;1.0000;0.6
+NULL;762170102;Janval Quatre Vents;0.4;0.321;3.534;0.603;0.3210;0.4378;0.6724;0.6
+NULL;762170112;Vieux Neuville;0;0;0.6; ;0.0000;0.0000; ;1
+NULL;762170113;Neuville Lotissements;;;; ; ; ; ; 
+NULL;762170105;Val Druel;;;; ; ; ; ; 
+NULL;762170111;Les Coteaux;;;; ; ; ; ; 

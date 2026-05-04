@@ -32,7 +32,6 @@ Git bash / Git hub
 	- Après avoir tapé la commande :
 		- Appuie sur Entrée pour accepter le dossier par défaut `(/c/Users/ton_nom/.ssh/id_ed25519)`.
 		- Si demandé, indique un mot de passe ou appuie sur Entrée pour ne pas en mettre.
-
 3. Ajouter la clé SSH à ton dépôt dans le compte GitHub	
 	- Copie la clé publique :
 		- ```cat ~/.ssh/id_ed25519.pub```
@@ -47,7 +46,6 @@ Git bash / Git hub
 		- Dans Git Bash 
 			- ```git clone git@github.com:ton-nom-utilisateur/nom-du-repo.git```
 			- ```cd nom-du-repo```
-
 5. Ajouter et charger des fichiers
 	- Ajoute (ou crée) tes fichiers dans le dossier du dépôt
 		- Par exemple, place monfichier.txt dans ce dossier.

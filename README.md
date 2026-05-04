@@ -47,6 +47,7 @@ Git bash / Git hub
 		- Dans Git Bash 
 			- ```git clone git@github.com:ton-nom-utilisateur/nom-du-repo.git```
 			- ```cd nom-du-repo```
+
 5. Ajouter et charger des fichiers
 	- Ajoute (ou crée) tes fichiers dans le dossier du dépôt
 		- Par exemple, place monfichier.txt dans ce dossier.
